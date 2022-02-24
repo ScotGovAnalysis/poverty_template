@@ -4,15 +4,15 @@ Template files used to create the poverty publications for Scotland. These use a
 ## How to use it
 
 - create new Rmd file in Rstudio: File -> New file -> R Markdown… -> OK
-- Knit… -> Save File as “index.Rmd” on your C drive
-- add 6 files to same directory (list on next slide)
+- Save file as “index.Rmd” in a directory on your C drive, for example C:/users/public/documents/mynewfolder
+- add 6 files to same directory:
 
- - _site.yml
- - _template.html
- - _navbar.html
- - _footer.html
- - styles.css
- - img/sglogo.svg
+  - _site.yml
+  - _template.html
+  - _navbar.html
+  - _footer.html
+  - styles.css
+  - img/sglogo.svg
 
 
 - Knit
